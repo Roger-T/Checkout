@@ -1,0 +1,7 @@
+input[type="checkbox"].checkbox {
+    font-size: 13px;
+    text-align: left;
+    display:inline-block;
+    margin: 0 10px 10px 0;
+    vertical-align: top;
+}
